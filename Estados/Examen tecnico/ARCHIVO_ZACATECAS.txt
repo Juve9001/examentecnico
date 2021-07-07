@@ -1,0 +1,37 @@
+99917|Gabriel Lopez|Ranchería|Nochistlán de Mejía|Zacatecas||99901|32|99901||29|034|0724|Rural|
+99918|Tlachichila|Ranchería|Nochistlán de Mejía|Zacatecas||99901|32|99901||29|034|0730|Rural|
+99918|Casas Grandes|Ranchería|Nochistlán de Mejía|Zacatecas||99901|32|99901||29|034|1660|Rural|
+99918|Fátima|Barrio|Nochistlán de Mejía|Zacatecas||99901|32|99901||02|034|1665|Rural|
+99919|La Estancia|Ranchería|Nochistlán de Mejía|Zacatecas||99901|32|99901||29|034|0731|Rural|
+99920|San Pedro Apulco|Pueblo|Apulco|Zacatecas||99922|32|99922||28|002|0732|Rural|
+99921|Agua Blanca|Ranchería|Apulco|Zacatecas||99922|32|99922||29|002|0733|Rural|
+99930|Tenayuca|Pueblo|Apulco|Zacatecas||99922|32|99922||28|002|0735|Rural|
+99940|Apozol|Pueblo|Apozol|Zacatecas||99961|32|99961||28|001|0736|Urbano|
+99940|De Abajo|Barrio|Apozol|Zacatecas||99961|32|99961||02|001|1653|Urbano|
+99949|San Miguel (Atotonilco)|Ranchería|Apozol|Zacatecas||99961|32|99961||29|001|0001|Rural|
+99949|Los Llamas (San Isidro)|Ranchería|Apozol|Zacatecas||99961|32|99961||29|001|0738|Rural|
+99950|Benito Juárez (El Rescoldo)|Pueblo|Apozol|Zacatecas||99961|32|99961||28|001|0739|Rural|
+99960|San José (San José de los Meléndez)|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0002|Rural|
+99960|Contitlan|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0740|Rural|
+99960|Guadalupe Victoria|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0741|Rural|
+99960|Juchipila|Pueblo|Juchipila|Zacatecas||99961|32|99961||28|023|0742|Rural|
+99960|Pueblo Viejo|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0743|Rural|
+99960|San Sebastián|Pueblo|Juchipila|Zacatecas||99961|32|99961||28|023|0744|Rural|
+99960|La Quinta|Colonia|Juchipila|Zacatecas||99961|32|99961||09|023|1635|Rural|
+99960|Cerro La Arena|Fraccionamiento|Juchipila|Zacatecas||99961|32|99961||21|023|1675|Rural|
+99964|Popular del Sol|Colonia|Juchipila|Zacatecas||99961|32|99961||09|023|0001|Rural|
+99969|Mezquitera Sur|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0746|Rural|
+99970|El Remolino|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0747|Rural|
+99974|El Ranchito|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0748|Rural|
+99979|Amazochitl|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0749|Rural|
+99980|El Convento|Colonia|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99961|32|99961||09|033|0001|Urbano|15
+99980|Moyahua Centro|Colonia|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99961|32|99961||09|033|0750|Urbano|15
+99984|Santa Cruz|Fraccionamiento|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99961|32|99961||21|033|1022|Urbano|15
+99984|Santa Maria|Fraccionamiento|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99961|32|99961||21|033|1024|Urbano|15
+99987|El Parador|Colonia|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99961|32|99961||09|033|0002|Urbano|15
+99987|Bajío Blanco|Fraccionamiento|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99961|32|99961||21|033|1023|Urbano|15
+99990|Alameda Juárez|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0754|Rural|
+99993|Cuxpala|Pueblo|Moyahua de Estrada|Zacatecas||99961|32|99961||28|033|0753|Rural|
+99994|Vicente Guerrero|Pueblo|Moyahua de Estrada|Zacatecas||99961|32|99961||28|033|0751|Rural|
+99998|Jesús Maria|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0755|Rural|
+99998|Palmarejo|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0756|Rural|

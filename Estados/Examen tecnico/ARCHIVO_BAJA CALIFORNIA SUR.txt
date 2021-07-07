@@ -1,0 +1,239 @@
+23020|Ladrillera|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0025|Urbano|02
+23020|Guerrero|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0026|Urbano|02
+23020|Manuel Rivera Anaya|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0436|Urbano|02
+23026|Antonio Navarro Rubio|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0027|Urbano|02
+23026|Ampliación Antonio Navarro Rubio|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0193|Urbano|02
+23029|Zona Militar|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0028|Urbano|02
+23030|Francisco Villa|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0029|Urbano|02
+23030|Guadalupe Victoria|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0030|Urbano|02
+23030|Independencia|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0031|Urbano|02
+23030|Lienzo Charro|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0033|Urbano|02
+23030|Loma Linda|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0034|Urbano|02
+23030|Magisterial|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0035|Urbano|02
+23030|San Pablo Guelatao|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0036|Urbano|02
+23034|Lázaro Cárdenas|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0032|Urbano|02
+23037|Jacinto Lopez|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0037|Urbano|02
+23038|Loma Obrera|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0038|Urbano|02
+23038|Valle de las Vinoramas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0192|Urbano|02
+23038|Ampliación Lázaro Cárdenas|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0437|Urbano|02
+23038|Villas de Guadalupe|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0717|Urbano|02
+23038|Vista Hermosa|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0718|Urbano|02
+23038|Laguna Azul|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0858|Urbano|02
+23038|Ampliación Marquez de Leon|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0859|Urbano|02
+23038|Marquez de Leon|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0860|Urbano|02
+23039|La Escondida|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0039|Urbano|02
+23040|Adolfo Ruiz Cortines|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0040|Urbano|02
+23040|La Rinconada|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0041|Urbano|02
+23040|Los Olivos|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0042|Urbano|02
+23040|Perla|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0043|Urbano|02
+23040|Petrolera|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0044|Urbano|02
+23040|ISSSTE|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0438|Urbano|02
+23050|Bella Vista|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0045|Urbano|02
+23050|Benito Juárez Oriente|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0046|Urbano|02
+23050|Roma|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0047|Urbano|02
+23050|Rosaura Zapata|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0048|Urbano|02
+23050|Tecnológico|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0049|Urbano|02
+23050|Zona Industrial|Zona industrial|La Paz|Baja California Sur|La Paz|23004|03|23004||37|003|0051|Urbano|02
+23050|Misiones de Loreto|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0194|Urbano|02
+23050|El Carrizal|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0209|Urbano|02
+23050|Cruz de Piedra|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0223|Urbano|02
+23050|Bella Vista Plus|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0695|Urbano|02
+23050|El Campanario|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0696|Urbano|02
+23052|20 de Noviembre|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0053|Urbano|02
+23054|Calafia|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0054|Urbano|02
+23054|José María Morelos|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0573|Urbano|02
+23054|Cihuatán (Costa Azul)|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0574|Urbano|02
+23055|Jardines del Sur|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0056|Urbano|02
+23075|Borrego Cimarrón|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0444|Urbano|02
+23075|3 de Mayo|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0445|Urbano|02
+23075|Agustín Arriola|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0446|Urbano|02
+23075|3 de Mayo II|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0447|Urbano|02
+23075|Miguel Canseco|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0448|Urbano|02
+23075|Revolución II|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0572|Urbano|02
+23075|Santa Mónica|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0848|Urbano|02
+23076|Burocrática las Garzas|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0078|Urbano|02
+23076|Los Cactus|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0079|Urbano|02
+23076|Reforma|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0080|Urbano|02
+23076|San Agustín|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0206|Urbano|02
+23076|Las Islas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0449|Urbano|02
+23076|Civilizadores I|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0450|Urbano|02
+23076|Civilizadores II|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0451|Urbano|02
+23076|Villa Santa María|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0452|Urbano|02
+23076|Popular Garza V|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0699|Urbano|02
+23076|Las Tunas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0849|Urbano|02
+23076|Residencial Santa Rita|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0924|Urbano|02
+23076|Del Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0939|Urbano|02
+23077|17 de Octubre|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0081|Urbano|02
+23083|Solidaridad Mezquitito|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0457|Urbano|02
+23083|San Fernando|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0722|Urbano|02
+23083|Misiones|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0724|Urbano|02
+23084|Las Californias|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0015|Urbano|02
+23084|INVI El Mezquitito|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0092|Urbano|02
+23084|La Estancia|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0124|Urbano|02
+23084|Vista Dorada|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0213|Urbano|02
+23084|Puerta Real Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0263|Urbano|02
+23084|Ampliación El Progreso|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0264|Urbano|02
+23084|El Progreso|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0578|Urbano|02
+23084|Diana Laura|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0583|Urbano|02
+23084|Los Tabachines|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0584|Urbano|02
+23084|El Progreso|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0691|Urbano|02
+23084|VIVAH El Progreso|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0692|Urbano|02
+23084|La Cañada|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0693|Urbano|02
+23084|El Dorado|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0694|Urbano|02
+23084|Las Palmas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0843|Urbano|02
+23084|El Palmar II|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0914|Urbano|02
+23084|Península Sur|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0954|Urbano|02
+23084|Terranova|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0959|Urbano|02
+23084|Valle del Mezquite|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0981|Urbano|02
+23085|La Cima Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0004|Urbano|02
+23085|Los Bledales|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0005|Urbano|02
+23085|El Calandrio|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0088|Urbano|02
+23085|Santa Fe|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0090|Urbano|02
+23085|8 de Octubre 2a Sección|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0093|Urbano|02
+23085|Azul Marino|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0167|Urbano|02
+23085|San Miguel|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0190|Urbano|02
+23085|Correcaminos|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0211|Urbano|02
+23085|Coromuel|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0212|Urbano|02
+23085|Los Álamos|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0217|Urbano|02
+23085|Altezza Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0218|Urbano|02
+23085|Quintas San Patricio|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0221|Urbano|02
+23085|Altamira Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0222|Urbano|02
+23085|Hispania Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0227|Urbano|02
+23085|Antares Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0238|Urbano|02
+23085|Altavela|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0265|Urbano|02
+23085|Paseos del Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0459|Urbano|02
+23085|Leonardo Rodriguez|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0460|Urbano|02
+23085|Universidad Autónoma de Baja California Sur|Equipamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||17|003|0461|Urbano|02
+23085|Calandrio|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0480|Urbano|02
+23085|El Pescador|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0641|Urbano|02
+23085|Miramar|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0716|Urbano|02
+23085|Las Américas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0721|Urbano|02
+23085|Virreyes|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0911|Urbano|02
+23085|Villas de San Lorenzo|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0915|Urbano|02
+23085|Paraíso del Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0917|Urbano|02
+23085|Villas del Encanto|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0920|Urbano|02
+23085|San Miguel II|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0926|Urbano|02
+23085|Arbolares|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0930|Urbano|02
+23085|San Carlos III|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0935|Urbano|02
+23085|Brisas de las Olas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0942|Urbano|02
+23085|Rinconada las Californias|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0943|Urbano|02
+23085|San Rafael|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0944|Urbano|02
+23086|Ángel Cesar Mendoza Aramburo|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0094|Urbano|02
+23088|Del Mar Residencial|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0052|Urbano|02
+23088|Perla del Golfo|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0091|Urbano|02
+23088|Arcoiris II|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0214|Urbano|02
+23088|Arcoiris III|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0215|Urbano|02
+23088|Cola de la Ballena|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0219|Urbano|02
+23088|Real del Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0224|Urbano|02
+23088|Vista Real|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0226|Urbano|02
+23088|Bella California|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0228|Urbano|02
+23088|Lomas del Cardón|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0241|Urbano|02
+23088|Campestre el Cardón|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0251|Urbano|02
+23088|Bella California III|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0254|Urbano|02
+23090|Los Girasoles|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0463|Urbano|02
+23090|Arcos del Sol|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0464|Urbano|02
+23090|Arcos del Sol I|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0465|Urbano|02
+23090|La Esperanza|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0466|Urbano|02
+23090|San Marino|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0467|Urbano|02
+23090|La Esperanza 2|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0468|Urbano|02
+23090|La Esperanza 3|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0577|Urbano|02
+23090|Cactus Harinera|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0617|Urbano|02
+23090|Tulipanes|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0618|Urbano|02
+23090|Capullo|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0701|Urbano|02
+23090|Privadas del Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0732|Urbano|02
+23090|Bugambilias|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0841|Urbano|02
+23090|San Antonio El Zacatal|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0897|Urbano|02
+23090|Marina Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0937|Urbano|02
+23090|Atardeceres|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0946|Urbano|02
+23094|Sector La Selva Fidepaz|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0103|Urbano|02
+23094|Las Flores|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0199|Urbano|02
+23094|Ballenas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0200|Urbano|02
+23094|Las Quintas|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0201|Urbano|02
+23094|Los Cántaros|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0202|Urbano|02
+23094|Los Peces|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0203|Urbano|02
+23095|La Sirena|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0104|Urbano|02
+23095|Sector Santa Rita|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0105|Urbano|02
+23095|Balandra Puesta del Sol|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0469|Urbano|02
+23095|Nueva Puesta del Sol|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0700|Urbano|02
+23096|Guaycura|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0106|Urbano|02
+23096|Playa de Santa Rita|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0107|Urbano|02
+23097|Los Pericues|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0108|Urbano|02
+23097|Mineros (Perla ROFOMEX)|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0109|Urbano|02
+23097|Misioneros|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0110|Urbano|02
+23097|Ciudad del Recreo|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0470|Urbano|02
+23097|Pueblo Nuevo|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0471|Urbano|02
+23097|Villas del Mar|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0473|Urbano|02
+23097|Plan Hidráulico|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0702|Urbano|02
+23097|Residencial Marina Sur|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0925|Urbano|02
+23098|CCC y Perla de La Paz|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0111|Urbano|02
+23098|Garzas Agrícolas|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0112|Urbano|02
+23098|Las Garzas INFONAVIT|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0113|Urbano|02
+23098|Sector Inalapa|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0114|Urbano|02
+23098|Cácaros|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0204|Urbano|02
+23098|María Conchita|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0474|Urbano|02
+23098|Las Margaritas|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0475|Urbano|02
+23098|Azaleas|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0619|Urbano|02
+23099|Las Arboledas|Colonia|La Paz|Baja California Sur|La Paz|23004|03|23004||09|003|0115|Urbano|02
+23099|Residencial Loreto|Fraccionamiento|La Paz|Baja California Sur|La Paz|23004|03|23004||21|003|0116|Urbano|02
+23099|Independencia|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0476|Urbano|02
+23099|Estrella|Unidad habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||31|003|0477|Urbano|02
+23099|Santa María|Conjunto habitacional|La Paz|Baja California Sur|La Paz|23004|03|23004||12|003|0478|Urbano|02
+23100|San Bartolo|Pueblo|La Paz|Baja California Sur||23202|03|23202||28|003|0117|Rural|
+23100|Las Golondrinas|Rancho|La Paz|Baja California Sur||23202|03|23202||48|003|0976|Rural|
+23106|El Palo Verde|Rancho|La Paz|Baja California Sur||23202|03|23202||48|003|0968|Rural|
+23130|Santa Rita|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0119|Rural|
+23133|El Agua de los Coyotes|Rancho|La Paz|Baja California Sur||23004|03|23004||48|003|0975|Rural|
+23140|Las Ánimas|Rancho|La Paz|Baja California Sur||23601|03|23601||48|003|0970|Rural|
+23143|San Evaristo|Ranchería|La Paz|Baja California Sur||23601|03|23601||29|003|0972|Rural|
+23150|Las Pocitas|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0120|Rural|
+23154|La Cieneguita|Rancho|La Paz|Baja California Sur||23004|03|23004||48|003|0971|Rural|
+23170|San Hilario|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0121|Rural|
+23174|San Juan de la Costa|Zona industrial|La Paz|Baja California Sur||23004|03|23004||37|003|0234|Rural|
+23200|San Antonio|Ranchería|La Paz|Baja California Sur||23202|03|23202||29|003|0122|Rural|
+23203|Alfredo V Bonfil|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0125|Rural|
+23205|El Centenario|Colonia|La Paz|Baja California Sur||23004|03|23004||09|003|0123|Rural|
+23205|Chametla|Colonia|La Paz|Baja California Sur||23004|03|23004||09|003|0126|Rural|
+23205|Puerta Azul|Fraccionamiento|La Paz|Baja California Sur||23004|03|23004||21|003|0252|Rural|
+23205|Ampliación Centenario|Colonia|La Paz|Baja California Sur||23004|03|23004||09|003|0616|Rural|
+23205|Comitán|Fraccionamiento|La Paz|Baja California Sur||23004|03|23004||21|003|0861|Rural|
+23205|Paraíso del Mar|Fraccionamiento|La Paz|Baja California Sur||23004|03|23004||21|003|0912|Rural|
+23206|La Paz (Gral. Manuel Márquez de León)|Aeropuerto|La Paz|Baja California Sur||23004|03|23004||01|003|0846|Rural|
+23206|Agroexportadora del Noroeste|Zona industrial|La Paz|Baja California Sur||23004|03|23004||37|003|0974|Rural|
+23208|La Fortuna|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0129|Rural|
+23208|Rosarito|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0130|Rural|
+23208|Puerto de Pichilingue|Puerto|La Paz|Baja California Sur||23004|03|23004||40|003|0845|Rural|
+23208|La Lagunita|Rancho|La Paz|Baja California Sur||23004|03|23004||48|003|0978|Rural|
+23209|Las Vinoramas|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0131|Rural|
+23210|El Triunfo|Ranchería|La Paz|Baja California Sur||23202|03|23202||29|003|0132|Rural|
+23210|San Antonio|Ranchería|La Paz|Baja California Sur||23202|03|23202||29|003|0256|Rural|
+23213|El Encino|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0135|Rural|
+23215|Agua Blanca|Ranchería|La Paz|Baja California Sur||23301|03|23301||29|003|0136|Rural|
+23216|Las 3 Pachitas|Ranchería|La Paz|Baja California Sur||23301|03|23301||29|003|0137|Rural|
+23217|El Rosario 1|Ranchería|La Paz|Baja California Sur||23202|03|23202||29|003|0138|Rural|
+23230|San Juan de los Planes|Pueblo|La Paz|Baja California Sur||23231|03|23231||28|003|0139|Rural|
+23230|General Juan Domínguez Cota|Ejido|La Paz|Baja California Sur||23231|03|23231||15|003|0874|Rural|
+23232|San Fermín (La Cuesta)|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0140|Rural|
+23232|El Sargento|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0141|Rural|
+23232|La Ventana|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0142|Rural|
+23234|Agua Amarga|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0144|Rural|
+23234|San Pedro México|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0873|Rural|
+23236|Ensenada de Muertos|Ranchería|La Paz|Baja California Sur||23231|03|23231||29|003|0145|Rural|
+23240|San Pedro|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0146|Rural|
+23243|El Ancón|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0973|Rural|
+23244|Los Tamales|Rancho|La Paz|Baja California Sur||23004|03|23004||48|003|0969|Rural|
+23247|San Ramon|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0128|Rural|
+23248|Los Divisaderos|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0143|Rural|
+23248|Álvaro Obregón|Ejido|La Paz|Baja California Sur||23004|03|23004||15|003|0147|Rural|
+23248|La Trinchera|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0148|Rural|
+23248|El Pozo|Ranchería|La Paz|Baja California Sur||23004|03|23004||29|003|0159|Rural|
+23473|INFONAVIT Nuevo|Unidad habitacional|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||31|008|0631|Urbano|03
+23473|Los Cangrejos|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0686|Urbano|03
+23473|Vista Hermosa|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0704|Urbano|03
+23473|Gardenias|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0705|Urbano|03
+23473|Portales|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0927|Urbano|03
+23473|Casa Blanca|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0928|Urbano|03
+23473|Terranova|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0929|Urbano|03
+23474|Arcos del Sol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0680|Urbano|03
+23474|Jardines del Sol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0683|Urbano|03
+23474|Inova|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0714|Urbano|03
+23474|Villas de La Joya|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0900|Urbano|03
